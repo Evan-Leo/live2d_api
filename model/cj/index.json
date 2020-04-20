@@ -1,0 +1,27 @@
+{
+  "version": "Alpha",
+  "model": "chunjuan.moc",
+  "textures": [
+    "Texture2D/texture_00.png"
+  ],
+      "layout":{
+        "center_x": 0,
+        "center_y": 0,
+        "width": 1.0,
+        "height": 2.2
+      },
+  "motions": {
+    "idle": [
+      {
+        "file": "idle.mtn"
+      },
+            {
+        "file": "woquan.mtn"
+      },
+            {
+        "file": "xianhua.mtn"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}
